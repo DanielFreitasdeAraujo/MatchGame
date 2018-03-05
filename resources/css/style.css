@@ -1,0 +1,46 @@
+html {
+  font-family: "Helvetica", sans-serif;
+  font-size: 16px;
+}
+
+
+
+body{
+  background-color: rgb(255,242,242);
+  padding-left: 3rem;
+}
+
+h1, h3{
+  color: darkblue;
+  font-weight: bold;
+}
+
+.container-fluid{
+  background-color: white;
+  margin-right: 30rem;
+}
+
+.card{
+  background-color: darkblue;
+  border-radius: 5px;
+  height: 10rem;
+  margin: 0.4rem;
+  text-align: center;
+}
+
+.card span{
+  color: darkblue;
+  font-size: 7rem;
+}
+
+.whitefont{
+  color: white;
+}
+
+/*.card span:hover{
+  color: white;
+}*/
+
+.teste{
+  background-color: yellow;
+}
